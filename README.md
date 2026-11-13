@@ -9,6 +9,7 @@ Information Systems student at the **University of São Paulo (EACH-USP)**, inte
 ### Tools
 
 **Data & AI:** SQL (BigQuery, Databricks) · Python · LLM agents · Power BI · Excel
+
 **Dev:** C · Java · JavaScript · React · HTML/CSS · Git
 
 ### Projects
